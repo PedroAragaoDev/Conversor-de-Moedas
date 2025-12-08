@@ -5,40 +5,29 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 📌 O que este projeto demonstra sobre minhas habilidades
 
 ✔ Consumo de API REST usando fetch()
-
 ✔ Tratamento de dados dinâmicos (popular selects com resposta da API)
-
 ✔ Manipulação do DOM (criação de elementos, troca de valores, eventos)
-
 ✔ Funções assíncronas (async/await)
-
 ✔ Organização e estruturação de projeto front-end
-
 ✔ Lógica de programação aplicada a um caso real
-
 ✔ Boas práticas com código limpo e legível
+
 
 🔧 Tecnologias Utilizadas
 
-HTML5
-
-CSS3
-
-JavaScript ES6+
-
-ExchangeRate API
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **ExchangeRate API**
+  
 
 🚀 Funcionalidades Principais
 
-Converter valores em tempo real entre várias moedas
+- Converter valores em tempo real entre várias moedas
+- Listar automaticamente todas as moedas disponibilizadas pela API
+- Botão para inverter moedas (origem ↔ destino)
+- Interface simples e funcional
 
-Listar automaticamente todas as moedas disponibilizadas pela API
-
-Botão para inverter moedas (origem ↔ destino)
-
-Validação e tratamento básico de entrada do usuário
-
-Interface simples e funcional
 
 👤 Sobre mim
 
