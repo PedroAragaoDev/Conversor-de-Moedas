@@ -1,4 +1,4 @@
-# 🪙 Conversor de Moedas — Projeto Front-End
+# 🪙 Conversor de Moedas 
 
 Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM, lidar com eventos, trabalhar com JavaScript assíncrono (async/await) e montar uma interface funcional utilizando HTML, CSS e JavaScript puro.
 
