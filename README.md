@@ -5,11 +5,17 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 📌 O que este projeto demonstra sobre minhas habilidades
 
 ✔ Consumo de API REST usando fetch()
+
 ✔ Tratamento de dados dinâmicos (popular selects com resposta da API)
+
 ✔ Manipulação do DOM (criação de elementos, troca de valores, eventos)
+
 ✔ Funções assíncronas (async/await)
+
 ✔ Organização e estruturação de projeto front-end
+
 ✔ Lógica de programação aplicada a um caso real
+
 ✔ Boas práticas com código limpo e legível
 
 
