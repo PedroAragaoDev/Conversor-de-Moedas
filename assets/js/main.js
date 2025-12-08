@@ -13,7 +13,7 @@
         
         resultado.value = "";
 
-        if(converter > 0) resultado.value = `${converter}`
+        if(converter > 0) resultado.value = `${converter.toFixed(2)}`
     })
 
     async function carregarMoedas() {
@@ -52,5 +52,6 @@
 }
 
 carregarMoedas();
+
 
     
