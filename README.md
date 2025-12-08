@@ -1,9 +1,9 @@
-#🪙 Conversor de Moedas — Projeto Front-End
+# 🪙 Conversor de Moedas — Projeto Front-End
 
 Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM, lidar com eventos, trabalhar com JavaScript assíncrono (async/await) e montar uma interface funcional utilizando HTML, CSS e JavaScript puro.
 
 
-##📌 O que este projeto demonstra sobre minhas habilidades
+## 📌 O que este projeto demonstra sobre minhas habilidades
 
 - Consumo de API REST usando fetch()
 - Tratamento de dados dinâmicos (popular selects com resposta da API)
@@ -14,7 +14,7 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 - Boas práticas com código limpo e legível
 
 
-##🔧 Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
@@ -22,7 +22,7 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 - **ExchangeRate API**
   
 
-##🚀 Funcionalidades Principais
+## 🚀 Funcionalidades Principais
 
 - Converter valores em tempo real entre várias moedas
 - Listar automaticamente todas as moedas disponibilizadas pela API
@@ -30,7 +30,7 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 - Interface simples e funcional
 
 
-##👤 Sobre mim
+## 👤 Sobre mim
 
 Sou Pedro Souza, estudante e desenvolvedor front-end em crescimento.
 Busco oportunidades para aplicar minhas habilidades e evoluir na área de desenvolvimento web.
