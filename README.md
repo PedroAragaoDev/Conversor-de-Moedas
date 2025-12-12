@@ -32,5 +32,5 @@ Este projeto demonstra minha capacidade de consumir APIs reais, manipular o DOM,
 
 ## 👤 Sobre mim
 
-Sou Pedro Souza, estudante e desenvolvedor front-end em crescimento.
+Sou Pedro Aragão, estudante e desenvolvedor front-end em crescimento.
 Busco oportunidades para aplicar minhas habilidades e evoluir na área de desenvolvimento web.
